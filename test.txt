@@ -1,7 +1,16 @@
 Hi Hello
 This is my second commit
+<<<<<<< HEAD
+I am Mythili
+=======
 I am Mythili
 My Husband name is VIJAY
+My son name is Thaarmeegan
+Mythili Father Name is Sekar"
+Mythili Mother Name is Vadivambigai
+
+>>>>>>> 0d71111 (MDad)
+Mythili Sister Name is Mohanapriya
 My son name is Thaarmeegan
 Mythili Father Name is Sekar"
 Mythili Mother Name is Vadivambigai
